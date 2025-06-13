@@ -1,0 +1,33 @@
+{
+  "name": "react-inf-scroller",
+  "version": "1.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "types:check": "npx tsc --build",
+    "build": "npx tsc --build"
+  },
+  "peerDependencies": {
+    "react": "^16.8"
+  },
+  "keywords": [
+    "react",
+    "react-hook",
+    "infinite-scroll",
+    "keyboard",
+    "typescript",
+    "javascript"
+  ],
+  "author": "Ayo",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/react": "^19.1.8",
+    "react": "^16.8",
+    "typescript": "^5.8.3"
+  }
+}
