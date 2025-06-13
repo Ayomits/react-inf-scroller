@@ -1,7 +1,7 @@
 {
   "name": "react-inf-scroller",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
+  "description": "Infinite scroll component under the ref callback",
   "main": "dist/index.js",
   "files": [
     "dist"
