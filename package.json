@@ -23,6 +23,7 @@
     "javascript"
   ],
   "author": "Ayo",
+  "repository": "https://github.com/Ayomits/react-inf-scroller",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
